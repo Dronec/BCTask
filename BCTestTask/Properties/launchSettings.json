@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BCTestTask": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost BCTestTask dbo.TestTable c:\\dev\\"
+    }
+  }
+}
